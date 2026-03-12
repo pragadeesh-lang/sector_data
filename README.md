@@ -1,4 +1,4 @@
-# Sectoral Intelligence Dashboard
+# Sectoral Intelligence Dashboard 📈
 
 An exhaustive, metric-driven dashboard for monitoring Indian macroeconomic and sectoral trends (Auto, Banking & Mutual Funds).
 
