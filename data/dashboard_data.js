@@ -10894,7 +10894,7 @@ window.dashboardData = [
   {
     "id": "auto_registrations_fuel_CNG_ONLY",
     "sector": "Auto",
-    "subsector": "Fuel Trends",
+    "subsector": "Vehicle Registration Break-up by Fuel Type",
     "title": "CNG ONLY",
     "subtitle": "CNG ONLY (Monthly)",
     "metric": 37094.0,
@@ -10920,7 +10920,7 @@ window.dashboardData = [
   {
     "id": "auto_registrations_fuel_DIESEL",
     "sector": "Auto",
-    "subsector": "Fuel Trends",
+    "subsector": "Vehicle Registration Break-up by Fuel Type",
     "title": "DIESEL",
     "subtitle": "DIESEL (Monthly)",
     "metric": 208890.0,
@@ -10946,7 +10946,7 @@ window.dashboardData = [
   {
     "id": "auto_registrations_fuel_ELECTRIC(BOV)",
     "sector": "Auto",
-    "subsector": "Fuel Trends",
+    "subsector": "Vehicle Registration Break-up by Fuel Type",
     "title": "ELECTRIC(BOV)",
     "subtitle": "ELECTRIC(BOV) (Monthly)",
     "metric": 123956.0,
@@ -10972,7 +10972,7 @@ window.dashboardData = [
   {
     "id": "auto_registrations_fuel_PETROL",
     "sector": "Auto",
-    "subsector": "Fuel Trends",
+    "subsector": "Vehicle Registration Break-up by Fuel Type",
     "title": "PETROL",
     "subtitle": "PETROL (Monthly)",
     "metric": 1575888.0,
@@ -10998,7 +10998,7 @@ window.dashboardData = [
   {
     "id": "auto_registrations_fuel_PETROL/CNG",
     "sector": "Auto",
-    "subsector": "Fuel Trends",
+    "subsector": "Vehicle Registration Break-up by Fuel Type",
     "title": "PETROL/CNG",
     "subtitle": "PETROL/CNG (Monthly)",
     "metric": 58166.0,
@@ -11024,7 +11024,7 @@ window.dashboardData = [
   {
     "id": "auto_registrations_fuel_PURE_EV",
     "sector": "Auto",
-    "subsector": "Fuel Trends",
+    "subsector": "Vehicle Registration Break-up by Fuel Type",
     "title": "PURE EV",
     "subtitle": "PURE EV (Monthly)",
     "metric": 16712.0,
@@ -11050,7 +11050,7 @@ window.dashboardData = [
   {
     "id": "auto_registrations_total_ADAPTED_VEHICLE",
     "sector": "Auto",
-    "subsector": "Vehicle Segments",
+    "subsector": "Vehicle Registration Break-up by Vehicle Class",
     "title": "ADAPTED VEHICLE",
     "subtitle": "ADAPTED VEHICLE (Monthly)",
     "metric": 5565.0,
@@ -11092,7 +11092,7 @@ window.dashboardData = [
   {
     "id": "auto_registrations_total_AGRICULTURAL_TRACTOR",
     "sector": "Auto",
-    "subsector": "Vehicle Segments",
+    "subsector": "Vehicle Registration Break-up by Vehicle Class",
     "title": "AGRICULTURAL TRACTOR",
     "subtitle": "AGRICULTURAL TRACTOR (Monthly)",
     "metric": 81480.0,
@@ -11134,7 +11134,7 @@ window.dashboardData = [
   {
     "id": "auto_registrations_total_AMBULANCE",
     "sector": "Auto",
-    "subsector": "Vehicle Segments",
+    "subsector": "Vehicle Registration Break-up by Vehicle Class",
     "title": "AMBULANCE",
     "subtitle": "AMBULANCE (Monthly)",
     "metric": 1172.0,
@@ -11176,7 +11176,7 @@ window.dashboardData = [
   {
     "id": "auto_registrations_total_ANIMAL_AMBULANCE",
     "sector": "Auto",
-    "subsector": "Vehicle Segments",
+    "subsector": "Vehicle Registration Break-up by Vehicle Class",
     "title": "ANIMAL AMBULANCE",
     "subtitle": "ANIMAL AMBULANCE (Monthly)",
     "metric": 15.0,
@@ -11218,7 +11218,7 @@ window.dashboardData = [
   {
     "id": "auto_registrations_total_ARMOURED/SPECIALISED_VEHICLE",
     "sector": "Auto",
-    "subsector": "Vehicle Segments",
+    "subsector": "Vehicle Registration Break-up by Vehicle Class",
     "title": "ARMOURED/SPECIALISED VEHICLE",
     "subtitle": "ARMOURED/SPECIALISED VEHICLE (Monthly)",
     "metric": 32.0,
@@ -11260,7 +11260,7 @@ window.dashboardData = [
   {
     "id": "auto_registrations_total_ARTICULATED_VEHICLE",
     "sector": "Auto",
-    "subsector": "Vehicle Segments",
+    "subsector": "Vehicle Registration Break-up by Vehicle Class",
     "title": "ARTICULATED VEHICLE",
     "subtitle": "ARTICULATED VEHICLE (Monthly)",
     "metric": 3812.0,
@@ -11302,7 +11302,7 @@ window.dashboardData = [
   {
     "id": "auto_registrations_total_AUXILIARY_TRAILER",
     "sector": "Auto",
-    "subsector": "Vehicle Segments",
+    "subsector": "Vehicle Registration Break-up by Vehicle Class",
     "title": "AUXILIARY TRAILER",
     "subtitle": "AUXILIARY TRAILER (Monthly)",
     "metric": 46.0,
@@ -11344,7 +11344,7 @@ window.dashboardData = [
   {
     "id": "auto_registrations_total_BREAKDOWN_VAN",
     "sector": "Auto",
-    "subsector": "Vehicle Segments",
+    "subsector": "Vehicle Registration Break-up by Vehicle Class",
     "title": "BREAKDOWN VAN",
     "subtitle": "BREAKDOWN VAN (Monthly)",
     "metric": 2.0,
@@ -11386,7 +11386,7 @@ window.dashboardData = [
   {
     "id": "auto_registrations_total_BULLDOZER",
     "sector": "Auto",
-    "subsector": "Vehicle Segments",
+    "subsector": "Vehicle Registration Break-up by Vehicle Class",
     "title": "BULLDOZER",
     "subtitle": "BULLDOZER (Monthly)",
     "metric": 0.0,
@@ -11428,7 +11428,7 @@ window.dashboardData = [
   {
     "id": "auto_registrations_total_BUS",
     "sector": "Auto",
-    "subsector": "Vehicle Segments",
+    "subsector": "Vehicle Registration Break-up by Vehicle Class",
     "title": "BUS",
     "subtitle": "BUS (Monthly)",
     "metric": 6188.0,
@@ -11470,7 +11470,7 @@ window.dashboardData = [
   {
     "id": "auto_registrations_total_CAMPER_VAN_/_TRAILER",
     "sector": "Auto",
-    "subsector": "Vehicle Segments",
+    "subsector": "Vehicle Registration Break-up by Vehicle Class",
     "title": "CAMPER VAN / TRAILER",
     "subtitle": "CAMPER VAN / TRAILER (Monthly)",
     "metric": 22.0,
@@ -11512,7 +11512,7 @@ window.dashboardData = [
   {
     "id": "auto_registrations_total_CAMPER_VAN_/_TRAILER_(PRIVATE_USE)",
     "sector": "Auto",
-    "subsector": "Vehicle Segments",
+    "subsector": "Vehicle Registration Break-up by Vehicle Class",
     "title": "CAMPER VAN / TRAILER (PRIVATE USE)",
     "subtitle": "CAMPER VAN / TRAILER (PRIVATE USE) (Monthly)",
     "metric": 50.0,
@@ -11552,7 +11552,7 @@ window.dashboardData = [
   {
     "id": "auto_registrations_total_CASH_VAN",
     "sector": "Auto",
-    "subsector": "Vehicle Segments",
+    "subsector": "Vehicle Registration Break-up by Vehicle Class",
     "title": "CASH VAN",
     "subtitle": "CASH VAN (Monthly)",
     "metric": 18.0,
@@ -11592,7 +11592,7 @@ window.dashboardData = [
   {
     "id": "auto_registrations_total_CONSTRUCTION_EQUIPMENT_VEHICLE",
     "sector": "Auto",
-    "subsector": "Vehicle Segments",
+    "subsector": "Vehicle Registration Break-up by Vehicle Class",
     "title": "CONSTRUCTION EQUIPMENT VEHICLE",
     "subtitle": "CONSTRUCTION EQUIPMENT VEHICLE (Monthly)",
     "metric": 4169.0,
@@ -11632,7 +11632,7 @@ window.dashboardData = [
   {
     "id": "auto_registrations_total_CONSTRUCTION_EQUIPMENT_VEHICLE_(COMMERCIAL)",
     "sector": "Auto",
-    "subsector": "Vehicle Segments",
+    "subsector": "Vehicle Registration Break-up by Vehicle Class",
     "title": "CONSTRUCTION EQUIPMENT VEHICLE (COMMERCIAL)",
     "subtitle": "CONSTRUCTION EQUIPMENT VEHICLE (COMMERCIAL) (Monthly)",
     "metric": 813.0,
@@ -11672,7 +11672,7 @@ window.dashboardData = [
   {
     "id": "auto_registrations_total_CRANE_MOUNTED_VEHICLE",
     "sector": "Auto",
-    "subsector": "Vehicle Segments",
+    "subsector": "Vehicle Registration Break-up by Vehicle Class",
     "title": "CRANE MOUNTED VEHICLE",
     "subtitle": "CRANE MOUNTED VEHICLE (Monthly)",
     "metric": 732.0,
@@ -11712,7 +11712,7 @@ window.dashboardData = [
   {
     "id": "auto_registrations_total_DUMPER",
     "sector": "Auto",
-    "subsector": "Vehicle Segments",
+    "subsector": "Vehicle Registration Break-up by Vehicle Class",
     "title": "DUMPER",
     "subtitle": "DUMPER (Monthly)",
     "metric": 946.0,
@@ -11752,7 +11752,7 @@ window.dashboardData = [
   {
     "id": "auto_registrations_total_E-RICKSHAW_WITH_CART_(G)",
     "sector": "Auto",
-    "subsector": "Vehicle Segments",
+    "subsector": "Vehicle Registration Break-up by Vehicle Class",
     "title": "E-RICKSHAW WITH CART (G)",
     "subtitle": "E-RICKSHAW WITH CART (G) (Monthly)",
     "metric": 5822.0,
@@ -11792,7 +11792,7 @@ window.dashboardData = [
   {
     "id": "auto_registrations_total_E-RICKSHAW(P)",
     "sector": "Auto",
-    "subsector": "Vehicle Segments",
+    "subsector": "Vehicle Registration Break-up by Vehicle Class",
     "title": "E-RICKSHAW(P)",
     "subtitle": "E-RICKSHAW(P) (Monthly)",
     "metric": 40834.0,
@@ -11832,7 +11832,7 @@ window.dashboardData = [
   {
     "id": "auto_registrations_total_EARTH_MOVING_EQUIPMENT",
     "sector": "Auto",
-    "subsector": "Vehicle Segments",
+    "subsector": "Vehicle Registration Break-up by Vehicle Class",
     "title": "EARTH MOVING EQUIPMENT",
     "subtitle": "EARTH MOVING EQUIPMENT (Monthly)",
     "metric": 607.0,
@@ -11872,7 +11872,7 @@ window.dashboardData = [
   {
     "id": "auto_registrations_total_EDUCATIONAL_INSTITUTION_BUS",
     "sector": "Auto",
-    "subsector": "Vehicle Segments",
+    "subsector": "Vehicle Registration Break-up by Vehicle Class",
     "title": "EDUCATIONAL INSTITUTION BUS",
     "subtitle": "EDUCATIONAL INSTITUTION BUS (Monthly)",
     "metric": 864.0,
@@ -11912,7 +11912,7 @@ window.dashboardData = [
   {
     "id": "auto_registrations_total_EXCAVATOR_(COMMERCIAL)",
     "sector": "Auto",
-    "subsector": "Vehicle Segments",
+    "subsector": "Vehicle Registration Break-up by Vehicle Class",
     "title": "EXCAVATOR (COMMERCIAL)",
     "subtitle": "EXCAVATOR (COMMERCIAL) (Monthly)",
     "metric": 2.0,
@@ -11952,7 +11952,7 @@ window.dashboardData = [
   {
     "id": "auto_registrations_total_EXCAVATOR_(NT)",
     "sector": "Auto",
-    "subsector": "Vehicle Segments",
+    "subsector": "Vehicle Registration Break-up by Vehicle Class",
     "title": "EXCAVATOR (NT)",
     "subtitle": "EXCAVATOR (NT) (Monthly)",
     "metric": 815.0,
@@ -11992,7 +11992,7 @@ window.dashboardData = [
   {
     "id": "auto_registrations_total_FIRE_FIGHTING_VEHICLE",
     "sector": "Auto",
-    "subsector": "Vehicle Segments",
+    "subsector": "Vehicle Registration Break-up by Vehicle Class",
     "title": "FIRE FIGHTING VEHICLE",
     "subtitle": "FIRE FIGHTING VEHICLE (Monthly)",
     "metric": 61.0,
@@ -12032,7 +12032,7 @@ window.dashboardData = [
   {
     "id": "auto_registrations_total_FIRE_TENDERS",
     "sector": "Auto",
-    "subsector": "Vehicle Segments",
+    "subsector": "Vehicle Registration Break-up by Vehicle Class",
     "title": "FIRE TENDERS",
     "subtitle": "FIRE TENDERS (Monthly)",
     "metric": 39.0,
@@ -12072,7 +12072,7 @@ window.dashboardData = [
   {
     "id": "auto_registrations_total_FORK_LIFT",
     "sector": "Auto",
-    "subsector": "Vehicle Segments",
+    "subsector": "Vehicle Registration Break-up by Vehicle Class",
     "title": "FORK LIFT",
     "subtitle": "FORK LIFT (Monthly)",
     "metric": 149.0,
@@ -12112,7 +12112,7 @@ window.dashboardData = [
   {
     "id": "auto_registrations_total_GOODS_CARRIER",
     "sector": "Auto",
-    "subsector": "Vehicle Segments",
+    "subsector": "Vehicle Registration Break-up by Vehicle Class",
     "title": "GOODS CARRIER",
     "subtitle": "GOODS CARRIER (Monthly)",
     "metric": 56246.0,
@@ -12152,7 +12152,7 @@ window.dashboardData = [
   {
     "id": "auto_registrations_total_HARVESTER",
     "sector": "Auto",
-    "subsector": "Vehicle Segments",
+    "subsector": "Vehicle Registration Break-up by Vehicle Class",
     "title": "HARVESTER",
     "subtitle": "HARVESTER (Monthly)",
     "metric": 961.0,
@@ -12192,7 +12192,7 @@ window.dashboardData = [
   {
     "id": "auto_registrations_total_HEARSES",
     "sector": "Auto",
-    "subsector": "Vehicle Segments",
+    "subsector": "Vehicle Registration Break-up by Vehicle Class",
     "title": "HEARSES",
     "subtitle": "HEARSES (Monthly)",
     "metric": 14.0,
@@ -12232,7 +12232,7 @@ window.dashboardData = [
   {
     "id": "auto_registrations_total_LIBRARY_VAN",
     "sector": "Auto",
-    "subsector": "Vehicle Segments",
+    "subsector": "Vehicle Registration Break-up by Vehicle Class",
     "title": "LIBRARY VAN",
     "subtitle": "LIBRARY VAN (Monthly)",
     "metric": 0.0,
@@ -12272,7 +12272,7 @@ window.dashboardData = [
   {
     "id": "auto_registrations_total_LUXURY_CAB",
     "sector": "Auto",
-    "subsector": "Vehicle Segments",
+    "subsector": "Vehicle Registration Break-up by Vehicle Class",
     "title": "LUXURY CAB",
     "subtitle": "LUXURY CAB (Monthly)",
     "metric": 46.0,
@@ -12312,7 +12312,7 @@ window.dashboardData = [
   {
     "id": "auto_registrations_total_M-CYCLE/SCOOTER",
     "sector": "Auto",
-    "subsector": "Vehicle Segments",
+    "subsector": "Vehicle Registration Break-up by Vehicle Class",
     "title": "M-CYCLE/SCOOTER",
     "subtitle": "M-CYCLE/SCOOTER (Monthly)",
     "metric": 1166756.0,
@@ -12352,7 +12352,7 @@ window.dashboardData = [
   {
     "id": "auto_registrations_total_M-CYCLE/SCOOTER-WITH_SIDE_CAR",
     "sector": "Auto",
-    "subsector": "Vehicle Segments",
+    "subsector": "Vehicle Registration Break-up by Vehicle Class",
     "title": "M-CYCLE/SCOOTER-WITH SIDE CAR",
     "subtitle": "M-CYCLE/SCOOTER-WITH SIDE CAR (Monthly)",
     "metric": 322.0,
@@ -12392,7 +12392,7 @@ window.dashboardData = [
   {
     "id": "auto_registrations_total_MAXI_CAB",
     "sector": "Auto",
-    "subsector": "Vehicle Segments",
+    "subsector": "Vehicle Registration Break-up by Vehicle Class",
     "title": "MAXI CAB",
     "subtitle": "MAXI CAB (Monthly)",
     "metric": 1504.0,
@@ -12432,7 +12432,7 @@ window.dashboardData = [
   {
     "id": "auto_registrations_total_MOBILE_CANTEEN",
     "sector": "Auto",
-    "subsector": "Vehicle Segments",
+    "subsector": "Vehicle Registration Break-up by Vehicle Class",
     "title": "MOBILE CANTEEN",
     "subtitle": "MOBILE CANTEEN (Monthly)",
     "metric": 1.0,
@@ -12472,7 +12472,7 @@ window.dashboardData = [
   {
     "id": "auto_registrations_total_MOBILE_CLINIC",
     "sector": "Auto",
-    "subsector": "Vehicle Segments",
+    "subsector": "Vehicle Registration Break-up by Vehicle Class",
     "title": "MOBILE CLINIC",
     "subtitle": "MOBILE CLINIC (Monthly)",
     "metric": 16.0,
@@ -12512,7 +12512,7 @@ window.dashboardData = [
   {
     "id": "auto_registrations_total_MOBILE_WORKSHOP",
     "sector": "Auto",
-    "subsector": "Vehicle Segments",
+    "subsector": "Vehicle Registration Break-up by Vehicle Class",
     "title": "MOBILE WORKSHOP",
     "subtitle": "MOBILE WORKSHOP (Monthly)",
     "metric": 2.0,
@@ -12552,7 +12552,7 @@ window.dashboardData = [
   {
     "id": "auto_registrations_total_MODULAR_HYDRAULIC_TRAILER",
     "sector": "Auto",
-    "subsector": "Vehicle Segments",
+    "subsector": "Vehicle Registration Break-up by Vehicle Class",
     "title": "MODULAR HYDRAULIC TRAILER",
     "subtitle": "MODULAR HYDRAULIC TRAILER (Monthly)",
     "metric": 2.0,
@@ -12592,7 +12592,7 @@ window.dashboardData = [
   {
     "id": "auto_registrations_total_MOPED",
     "sector": "Auto",
-    "subsector": "Vehicle Segments",
+    "subsector": "Vehicle Registration Break-up by Vehicle Class",
     "title": "MOPED",
     "subtitle": "MOPED (Monthly)",
     "metric": 23984.0,
@@ -12632,7 +12632,7 @@ window.dashboardData = [
   {
     "id": "auto_registrations_total_MOTOR_CAB",
     "sector": "Auto",
-    "subsector": "Vehicle Segments",
+    "subsector": "Vehicle Registration Break-up by Vehicle Class",
     "title": "MOTOR CAB",
     "subtitle": "MOTOR CAB (Monthly)",
     "metric": 17150.0,
@@ -12672,7 +12672,7 @@ window.dashboardData = [
   {
     "id": "auto_registrations_total_MOTOR_CAR",
     "sector": "Auto",
-    "subsector": "Vehicle Segments",
+    "subsector": "Vehicle Registration Break-up by Vehicle Class",
     "title": "MOTOR CAR",
     "subtitle": "MOTOR CAR (Monthly)",
     "metric": 278864.0,
@@ -12712,7 +12712,7 @@ window.dashboardData = [
   {
     "id": "auto_registrations_total_MOTOR_CARAVAN",
     "sector": "Auto",
-    "subsector": "Vehicle Segments",
+    "subsector": "Vehicle Registration Break-up by Vehicle Class",
     "title": "MOTOR CARAVAN",
     "subtitle": "MOTOR CARAVAN (Monthly)",
     "metric": 1.0,
@@ -12752,7 +12752,7 @@ window.dashboardData = [
   {
     "id": "auto_registrations_total_MOTOR_CYCLE/SCOOTER-SIDECAR(T)",
     "sector": "Auto",
-    "subsector": "Vehicle Segments",
+    "subsector": "Vehicle Registration Break-up by Vehicle Class",
     "title": "MOTOR CYCLE/SCOOTER-SIDECAR(T)",
     "subtitle": "MOTOR CYCLE/SCOOTER-SIDECAR(T) (Monthly)",
     "metric": 4.0,
@@ -12792,7 +12792,7 @@ window.dashboardData = [
   {
     "id": "auto_registrations_total_MOTOR_CYCLE/SCOOTER-USED_FOR_HIRE",
     "sector": "Auto",
-    "subsector": "Vehicle Segments",
+    "subsector": "Vehicle Registration Break-up by Vehicle Class",
     "title": "MOTOR CYCLE/SCOOTER-USED FOR HIRE",
     "subtitle": "MOTOR CYCLE/SCOOTER-USED FOR HIRE (Monthly)",
     "metric": 2104.0,
@@ -12832,7 +12832,7 @@ window.dashboardData = [
   {
     "id": "auto_registrations_total_MOTOR_CYCLE/SCOOTER-WITH_TRAILER",
     "sector": "Auto",
-    "subsector": "Vehicle Segments",
+    "subsector": "Vehicle Registration Break-up by Vehicle Class",
     "title": "MOTOR CYCLE/SCOOTER-WITH TRAILER",
     "subtitle": "MOTOR CYCLE/SCOOTER-WITH TRAILER (Monthly)",
     "metric": 0.0,
@@ -12872,7 +12872,7 @@ window.dashboardData = [
   {
     "id": "auto_registrations_total_MOTORISED_CYCLE_(CC_>_25CC)",
     "sector": "Auto",
-    "subsector": "Vehicle Segments",
+    "subsector": "Vehicle Registration Break-up by Vehicle Class",
     "title": "MOTORISED CYCLE (CC > 25CC)",
     "subtitle": "MOTORISED CYCLE (CC > 25CC) (Monthly)",
     "metric": 9441.0,
@@ -12912,7 +12912,7 @@ window.dashboardData = [
   {
     "id": "auto_registrations_total_OMNI_BUS",
     "sector": "Auto",
-    "subsector": "Vehicle Segments",
+    "subsector": "Vehicle Registration Break-up by Vehicle Class",
     "title": "OMNI BUS",
     "subtitle": "OMNI BUS (Monthly)",
     "metric": 380.0,
@@ -12952,7 +12952,7 @@ window.dashboardData = [
   {
     "id": "auto_registrations_total_OMNI_BUS_(PRIVATE_USE)",
     "sector": "Auto",
-    "subsector": "Vehicle Segments",
+    "subsector": "Vehicle Registration Break-up by Vehicle Class",
     "title": "OMNI BUS (PRIVATE USE)",
     "subtitle": "OMNI BUS (PRIVATE USE) (Monthly)",
     "metric": 543.0,
@@ -12992,7 +12992,7 @@ window.dashboardData = [
   {
     "id": "auto_registrations_total_POWER_TILLER",
     "sector": "Auto",
-    "subsector": "Vehicle Segments",
+    "subsector": "Vehicle Registration Break-up by Vehicle Class",
     "title": "POWER TILLER",
     "subtitle": "POWER TILLER (Monthly)",
     "metric": 0.0,
@@ -13032,7 +13032,7 @@ window.dashboardData = [
   {
     "id": "auto_registrations_total_PRIVATE_SERVICE_VEHICLE",
     "sector": "Auto",
-    "subsector": "Vehicle Segments",
+    "subsector": "Vehicle Registration Break-up by Vehicle Class",
     "title": "PRIVATE SERVICE VEHICLE",
     "subtitle": "PRIVATE SERVICE VEHICLE (Monthly)",
     "metric": 340.0,
@@ -13072,7 +13072,7 @@ window.dashboardData = [
   {
     "id": "auto_registrations_total_PRIVATE_SERVICE_VEHICLE_(INDIVIDUAL_USE)",
     "sector": "Auto",
-    "subsector": "Vehicle Segments",
+    "subsector": "Vehicle Registration Break-up by Vehicle Class",
     "title": "PRIVATE SERVICE VEHICLE (INDIVIDUAL USE)",
     "subtitle": "PRIVATE SERVICE VEHICLE (INDIVIDUAL USE) (Monthly)",
     "metric": 89.0,
@@ -13112,7 +13112,7 @@ window.dashboardData = [
   {
     "id": "auto_registrations_total_PULLER_TRACTOR",
     "sector": "Auto",
-    "subsector": "Vehicle Segments",
+    "subsector": "Vehicle Registration Break-up by Vehicle Class",
     "title": "PULLER TRACTOR",
     "subtitle": "PULLER TRACTOR (Monthly)",
     "metric": 2.0,
@@ -13152,7 +13152,7 @@ window.dashboardData = [
   {
     "id": "auto_registrations_total_QUADRICYCLE_(COMMERCIAL)",
     "sector": "Auto",
-    "subsector": "Vehicle Segments",
+    "subsector": "Vehicle Registration Break-up by Vehicle Class",
     "title": "QUADRICYCLE (COMMERCIAL)",
     "subtitle": "QUADRICYCLE (COMMERCIAL) (Monthly)",
     "metric": 10.0,
@@ -13192,7 +13192,7 @@ window.dashboardData = [
   {
     "id": "auto_registrations_total_QUADRICYCLE_(PRIVATE)",
     "sector": "Auto",
-    "subsector": "Vehicle Segments",
+    "subsector": "Vehicle Registration Break-up by Vehicle Class",
     "title": "QUADRICYCLE (PRIVATE)",
     "subtitle": "QUADRICYCLE (PRIVATE) (Monthly)",
     "metric": 3.0,
@@ -13232,7 +13232,7 @@ window.dashboardData = [
   {
     "id": "auto_registrations_total_RECOVERY_VEHICLE",
     "sector": "Auto",
-    "subsector": "Vehicle Segments",
+    "subsector": "Vehicle Registration Break-up by Vehicle Class",
     "title": "RECOVERY VEHICLE",
     "subtitle": "RECOVERY VEHICLE (Monthly)",
     "metric": 25.0,
@@ -13272,7 +13272,7 @@ window.dashboardData = [
   {
     "id": "auto_registrations_total_ROAD_ROLLER",
     "sector": "Auto",
-    "subsector": "Vehicle Segments",
+    "subsector": "Vehicle Registration Break-up by Vehicle Class",
     "title": "ROAD ROLLER",
     "subtitle": "ROAD ROLLER (Monthly)",
     "metric": 16.0,
@@ -13312,7 +13312,7 @@ window.dashboardData = [
   {
     "id": "auto_registrations_total_SCHOOL_BUS",
     "sector": "Auto",
-    "subsector": "Vehicle Segments",
+    "subsector": "Vehicle Registration Break-up by Vehicle Class",
     "title": "SCHOOL BUS",
     "subtitle": "SCHOOL BUS (Monthly)",
     "metric": 0.0,
@@ -13352,7 +13352,7 @@ window.dashboardData = [
   {
     "id": "auto_registrations_total_SEMI-TRAILER_(COMMERCIAL)",
     "sector": "Auto",
-    "subsector": "Vehicle Segments",
+    "subsector": "Vehicle Registration Break-up by Vehicle Class",
     "title": "SEMI-TRAILER (COMMERCIAL)",
     "subtitle": "SEMI-TRAILER (COMMERCIAL) (Monthly)",
     "metric": 9.0,
@@ -13392,7 +13392,7 @@ window.dashboardData = [
   {
     "id": "auto_registrations_total_SNORKED_LADDERS",
     "sector": "Auto",
-    "subsector": "Vehicle Segments",
+    "subsector": "Vehicle Registration Break-up by Vehicle Class",
     "title": "SNORKED LADDERS",
     "subtitle": "SNORKED LADDERS (Monthly)",
     "metric": 0.0,
@@ -13432,7 +13432,7 @@ window.dashboardData = [
   {
     "id": "auto_registrations_total_THREE_WHEELER_(GOODS)",
     "sector": "Auto",
-    "subsector": "Vehicle Segments",
+    "subsector": "Vehicle Registration Break-up by Vehicle Class",
     "title": "THREE WHEELER (GOODS)",
     "subtitle": "THREE WHEELER (GOODS) (Monthly)",
     "metric": 9126.0,
@@ -13472,7 +13472,7 @@ window.dashboardData = [
   {
     "id": "auto_registrations_total_THREE_WHEELER_(PASSENGER)",
     "sector": "Auto",
-    "subsector": "Vehicle Segments",
+    "subsector": "Vehicle Registration Break-up by Vehicle Class",
     "title": "THREE WHEELER (PASSENGER)",
     "subtitle": "THREE WHEELER (PASSENGER) (Monthly)",
     "metric": 38025.0,
@@ -13512,7 +13512,7 @@ window.dashboardData = [
   {
     "id": "auto_registrations_total_THREE_WHEELER_(PERSONAL)",
     "sector": "Auto",
-    "subsector": "Vehicle Segments",
+    "subsector": "Vehicle Registration Break-up by Vehicle Class",
     "title": "THREE WHEELER (PERSONAL)",
     "subtitle": "THREE WHEELER (PERSONAL) (Monthly)",
     "metric": 68.0,
@@ -13552,7 +13552,7 @@ window.dashboardData = [
   {
     "id": "auto_registrations_total_TOW_TRUCK",
     "sector": "Auto",
-    "subsector": "Vehicle Segments",
+    "subsector": "Vehicle Registration Break-up by Vehicle Class",
     "title": "TOW TRUCK",
     "subtitle": "TOW TRUCK (Monthly)",
     "metric": 8.0,
@@ -13592,7 +13592,7 @@ window.dashboardData = [
   {
     "id": "auto_registrations_total_TOWER_WAGON",
     "sector": "Auto",
-    "subsector": "Vehicle Segments",
+    "subsector": "Vehicle Registration Break-up by Vehicle Class",
     "title": "TOWER WAGON",
     "subtitle": "TOWER WAGON (Monthly)",
     "metric": 3.0,
@@ -13632,7 +13632,7 @@ window.dashboardData = [
   {
     "id": "auto_registrations_total_TRACTOR_(COMMERCIAL)",
     "sector": "Auto",
-    "subsector": "Vehicle Segments",
+    "subsector": "Vehicle Registration Break-up by Vehicle Class",
     "title": "TRACTOR (COMMERCIAL)",
     "subtitle": "TRACTOR (COMMERCIAL) (Monthly)",
     "metric": 5561.0,
@@ -13672,7 +13672,7 @@ window.dashboardData = [
   {
     "id": "auto_registrations_total_TRACTOR-TROLLEY(COMMERCIAL)",
     "sector": "Auto",
-    "subsector": "Vehicle Segments",
+    "subsector": "Vehicle Registration Break-up by Vehicle Class",
     "title": "TRACTOR-TROLLEY(COMMERCIAL)",
     "subtitle": "TRACTOR-TROLLEY(COMMERCIAL) (Monthly)",
     "metric": 471.0,
@@ -13712,7 +13712,7 @@ window.dashboardData = [
   {
     "id": "auto_registrations_total_TRAILER_(AGRICULTURAL)",
     "sector": "Auto",
-    "subsector": "Vehicle Segments",
+    "subsector": "Vehicle Registration Break-up by Vehicle Class",
     "title": "TRAILER (AGRICULTURAL)",
     "subtitle": "TRAILER (AGRICULTURAL) (Monthly)",
     "metric": 3762.0,
@@ -13752,7 +13752,7 @@ window.dashboardData = [
   {
     "id": "auto_registrations_total_TRAILER_(COMMERCIAL)",
     "sector": "Auto",
-    "subsector": "Vehicle Segments",
+    "subsector": "Vehicle Registration Break-up by Vehicle Class",
     "title": "TRAILER (COMMERCIAL)",
     "subtitle": "TRAILER (COMMERCIAL) (Monthly)",
     "metric": 1512.0,
@@ -13792,7 +13792,7 @@ window.dashboardData = [
   {
     "id": "auto_registrations_total_TRAILER_FOR_PERSONAL_USE",
     "sector": "Auto",
-    "subsector": "Vehicle Segments",
+    "subsector": "Vehicle Registration Break-up by Vehicle Class",
     "title": "TRAILER FOR PERSONAL USE",
     "subtitle": "TRAILER FOR PERSONAL USE (Monthly)",
     "metric": 0.0,
@@ -13832,7 +13832,7 @@ window.dashboardData = [
   {
     "id": "auto_registrations_total_TREE_TRIMMING_VEHICLE",
     "sector": "Auto",
-    "subsector": "Vehicle Segments",
+    "subsector": "Vehicle Registration Break-up by Vehicle Class",
     "title": "TREE TRIMMING VEHICLE",
     "subtitle": "TREE TRIMMING VEHICLE (Monthly)",
     "metric": 1.0,
@@ -13872,7 +13872,7 @@ window.dashboardData = [
   {
     "id": "auto_registrations_total_VEHICLE_FITTED_WITH_COMPRESSOR",
     "sector": "Auto",
-    "subsector": "Vehicle Segments",
+    "subsector": "Vehicle Registration Break-up by Vehicle Class",
     "title": "VEHICLE FITTED WITH COMPRESSOR",
     "subtitle": "VEHICLE FITTED WITH COMPRESSOR (Monthly)",
     "metric": 5.0,
@@ -13912,7 +13912,7 @@ window.dashboardData = [
   {
     "id": "auto_registrations_total_VEHICLE_FITTED_WITH_GENERATOR",
     "sector": "Auto",
-    "subsector": "Vehicle Segments",
+    "subsector": "Vehicle Registration Break-up by Vehicle Class",
     "title": "VEHICLE FITTED WITH GENERATOR",
     "subtitle": "VEHICLE FITTED WITH GENERATOR (Monthly)",
     "metric": 5.0,
@@ -13952,7 +13952,7 @@ window.dashboardData = [
   {
     "id": "auto_registrations_total_VEHICLE_FITTED_WITH_RIG",
     "sector": "Auto",
-    "subsector": "Vehicle Segments",
+    "subsector": "Vehicle Registration Break-up by Vehicle Class",
     "title": "VEHICLE FITTED WITH RIG",
     "subtitle": "VEHICLE FITTED WITH RIG (Monthly)",
     "metric": 43.0,

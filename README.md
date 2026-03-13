@@ -3,7 +3,7 @@
 An exhaustive, metric-driven dashboard for monitoring Indian macroeconomic and sectoral trends (Auto, Banking & Mutual Funds).
 
 ## 🚀 Live Dashboard
-Hosted on GitHub Pages: `https://<your-username>.github.io/sector_data/`
+Hosted on GitHub Pages: `https://pascal-dashboards.github.io/sector_data/`
 
 ## 🛠️ How to Update Data
 The dashboard is powered by a Python data pipeline that fetches data from AMFI, VAHAN, and RBI.

@@ -152,10 +152,10 @@ class VahanConnector(BaseConnector):
             metric_base = "auto.registrations"
             if data_type == 'Fuel Wise':
                 metric_name = f"{metric_base}_fuel"
-                subsector = "Fuel Trends"
+                subsector = "Vehicle Registration Break-up by Fuel Type"
             else:
                 metric_name = f"{metric_base}_total"
-                subsector = "Vehicle Segments"
+                subsector = "Vehicle Registration Break-up by Vehicle Class"
 
             gold_rows.append({
                 'sector': 'Auto',
